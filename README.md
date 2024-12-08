@@ -39,10 +39,12 @@ Filters for dynamic data exploration (e.g., by year, quarter, and card category)
 Heatmaps, bar charts, and line graphs for trend analysis.
 
 ## Credit Card Transaction Report
-![image](https://github.com/Denilkumar-Patel/Credit_Card_Financial_Dashboard/blob/main/Screenshots/Credit%20Card%20Customer%20Report.png)
-## Credit Card Customer Report
- 
-## CONCLUSION
-Based on the predictive modeling, Linear Regression algorithm has the best score compared to the others, with MAE Score 4305.20, RMSE Score 6209.88, & R2 Score 0.77. <br>
+![image](https://github.com/Denilkumar-Patel/Credit_Card_Financial_Dashboard/blob/main/Screenshots/Credi%20Card%20Transaction%20Report.png)
 
-Therefore, Linear Regression algorithm is the best fitted model based on the training and testing accuracy.
+## Credit Card Customer Report
+![image](https://github.com/Denilkumar-Patel/Credit_Card_Financial_Dashboard/blob/main/Screenshots/Credit%20Card%20Customer%20Report.png)
+ 
+## Contact
+Author: Denilkumar Patel
+Email: d.patel.cse@gmail.com
+LinkedIn: www.linkedin.com/in/denil
