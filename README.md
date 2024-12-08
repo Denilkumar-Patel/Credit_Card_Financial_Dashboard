@@ -9,8 +9,6 @@ Insights at a Glance: KPIs like average credit utilization, total transaction am
 Time-Based Analysis: Spending trends broken down by weeks and quarters.
 Custom Filtering: Ability to filter data by card category, year, and expense type.
 
-Data source : https://www.kaggle.com/mirichoi0218/insurance
-
 ## Dashboard Pages
 1. Credit Card Customer Report
 Purpose: Analyze customer demographics, card usage, and credit health.
@@ -45,6 +43,6 @@ Heatmaps, bar charts, and line graphs for trend analysis.
 ![image](https://github.com/Denilkumar-Patel/Credit_Card_Financial_Dashboard/blob/main/Screenshots/Credit%20Card%20Customer%20Report.png)
  
 ## Contact
-Author: Denilkumar Patel
-Email: d.patel.cse@gmail.com
+Author: Denilkumar Patel<br>
+Email: d.patel.cse@gmail.com<br>
 LinkedIn: www.linkedin.com/in/denil
