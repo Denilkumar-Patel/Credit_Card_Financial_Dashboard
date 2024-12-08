@@ -10,7 +10,7 @@ Time-Based Analysis: Spending trends broken down by weeks and quarters.
 Custom Filtering: Ability to filter data by card category, year, and expense type.
 
 ## Dashboard Pages
-1. Credit Card Customer Report
+1. Credit Card Customer Report<br>
 Purpose: Analyze customer demographics, card usage, and credit health.
 Key Visuals:
 Breakdown of card categories.
@@ -19,7 +19,7 @@ Credit limit distribution and delinquent accounts.
 Insights:
 Identify high-risk customers based on delinquent accounts.
 Compare customer segments by card category and credit utilization.
-2. Credit Card Transaction Report
+2. Credit Card Transaction Report<br>
 Purpose: Track and analyze credit card transaction patterns.
 Key Visuals:
 Weekly and quarterly transaction trends.
